@@ -1,0 +1,52 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+
+.pic{
+    position:relative;
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#secondfood{
+  position: relative;
+  background-image: url("img/noodle.jpg")
+}
+
+#firstfood{
+position:relative;
+  background-image: url("img/chicken.jpg");
+}
+
+#thirdfood{
+  position:relative;
+  background-image:url("img/ck.jpg");
+}
+#friedchicken{
+  color:gold;
+}
+#friednoodles{
+  color:yellow;
+}
+#chocolatebis{
+  color:chocolate;
+}
+h2{
+  color:white;
+  position:absolute;
+  top:250px;
+  text-align: center;
+  width:100%;
+}
+
+.description{
+  font-size:20px;
+  margin: 100px;
+  background-color:white;
+}

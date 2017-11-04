@@ -16,7 +16,7 @@ body{
 }
 #secondfood{
   position: relative;
-  background-image: url("img/noodle.jpg")
+  background-image: url("img/AID.jpg")
 }
 
 #collegebackground{
@@ -26,16 +26,23 @@ position:relative;
 
 #thirdfood{
   position:relative;
-  background-image:url("img/ck.jpg");
+  background-image:url("img/Majors.jpg");
+}
+#funfact{
+  position: relative;
+  background-image: url("img/facts.jpg")
 }
 #friedchicken{
   color:lightblue;
 }
 #friednoodles{
-  color:yellow;
+  color:lightgreen;
 }
 #chocolatebis{
-  color:chocolate;
+  color:lightyellow;
+}
+#facts{
+  color:gold;
 }
 h2{
   color:white;

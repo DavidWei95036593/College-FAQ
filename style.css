@@ -46,6 +46,18 @@ position:relative;
   position: relative;
   background-image: url("img/PO.jpg")
 }
+#INT{
+  position: relative;
+  background-image: url("img/inter.jpg")
+}
+#CA{
+  position: relative;
+  background-image: url("img/CAA.jpg")
+}
+#US{
+  position: relative;
+  background-image: url("img/USA.jpg");
+}
 #friedchicken{
   color:lightblue;
 }
@@ -63,6 +75,9 @@ position:relative;
 }
 #com{
   color:IndianRed;
+}
+#black{
+  color:red;
 }
 h2{
   color:white;

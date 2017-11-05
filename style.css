@@ -18,12 +18,18 @@ body{
   position: relative;
   background-image: url("img/AID.jpg")
 }
-
+#return{
+  position:relative;
+  background-image:url("img/UCLA.jpg")
+}
 #collegebackground{
 position:relative;
   background-image: url("img/ucla-.jpeg");
 }
-
+#fees{
+  position: relative;
+  background-image: url("img/money.jpg")
+}
 #thirdfood{
   position:relative;
   background-image:url("img/Majors.jpg");
@@ -44,6 +50,10 @@ position:relative;
 #facts{
   color:gold;
 }
+#home{
+  color:GreenYellow;
+}
+
 h2{
   color:white;
   position:absolute;
